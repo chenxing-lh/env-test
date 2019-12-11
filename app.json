@@ -1,0 +1,19 @@
+{
+  "appKey": "8MT2B8vB12iioU972FUyoOyN3O7jmCOp",
+  "appSecret": "fMGG273SzMdewvcGtxX5lWjFeTzk24Hr",
+  "projectId": "8169e0b336f2872e44def725deda7f56",
+  "id": 303,
+  "name": "env-test",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/chenxing-lh/env-test.git",
+    "isPrivate": 0,
+    "username": "381606250@qq.com",
+    "password": "lh15627836616"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
